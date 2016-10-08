@@ -1,0 +1,7 @@
+[package]
+name = "gravity"
+version = "0.1.0"
+authors = ["Alexey Gerasev <alexey.gerasev@gmail.com>"]
+
+[dependencies.mm]
+path = "mm"
